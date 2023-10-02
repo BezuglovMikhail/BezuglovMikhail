@@ -12,7 +12,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<h3 align="center">[![Mikhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=BezuglovMikhail)](https://github.com/BezuglovMikhail/BezuglovMikhail)</h3>
+[![Mikhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=BezuglovMikhail)](https://github.com/BezuglovMikhail/BezuglovMikhail)
 
 
 <!--
